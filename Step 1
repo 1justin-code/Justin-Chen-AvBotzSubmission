@@ -6,7 +6,8 @@ A Pipe is a simple, linear form of communication from one object to another. It 
 
 Shared memory is a dedicated space in the memory that many different objects can communicate with each other, both reading and writing data.
 
-If I was to pick one of these to use, I would have to look at the project specifications first in order to decide which one I would use. For a simpler,
-more basic problem I would use pipes, however if the project was more expansive and complex, using shared memory would be much more useful. However,
-due to the fact that AVBotz uses many different objects that communicate with each other, I predict that using shared memory will be more widespread.
-While pipes may be more efficient, I think it is much more convenient to use shared memory when dealing with a complex program.
+If I was to pick one of these to use, I would have to look at the project specifications first in order to decide which one I would use.
+For a simpler, more basic problem I would use pipes, however if the project was more expansive and complex, using shared memory would be
+much more useful. While pipes may be more efficient, I think it is much more convenient to use shared memory when dealing with a complex
+program. However,due to the fact that AVBotz uses many different objects that communicate with each other, I predict that using shared
+memory will be more widespread.
